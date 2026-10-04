@@ -18,7 +18,7 @@ const app = express();
 app.use(cors({
  origin: [
   "http://localhost:5173",
-  "https://healthcheck-ai-ten.vercel.app"
+  "https://healthcheck-ai-git-main-sandhyas-projects-dd73e2cb.vercel.app"
 ], 
   // React (Vite) frontend URL
   credentials: true
