@@ -180,7 +180,6 @@ This application is for educational and informational purposes only. It should n
 
 ## 👥 Team
 
-- **Yuvraj D** - [@YuvrajD02](https://github.com/YuvrajD02)
 
 ## 🙏 Acknowledgments
 
