@@ -17,9 +17,9 @@ const app = express();
 // Middlewares
 app.use(cors({
  origin: [
-    "http://localhost:5173",
-    "https://healthchecka.netlify.app"
-  ], 
+  "http://localhost:5173",
+  "https://healthcheck-ai-ten.vercel.app"
+], 
   // React (Vite) frontend URL
   credentials: true
 }));
