@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:4000/api";
+const API_URL = `${import.meta.env.VITE_API_URL || "http://localhost:4000"}/api`;
 
 export const signup = async (userData) => {
     try {
@@ -8,7 +8,7 @@ export const signup = async (userData) => {
             body: JSON.stringify(userData),
         });
         return await res.json();
-    } catch (error) {
+    } catch {
         throw new Error('Network error during signup');
     }
 };
@@ -21,7 +21,7 @@ export const login = async (userData) => {
             body: JSON.stringify(userData),
         });
         return await res.json();
-    } catch (error) {
+    } catch {
         throw new Error('Network error during login');
     }
 };
