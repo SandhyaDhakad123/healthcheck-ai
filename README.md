@@ -1,5 +1,6 @@
 ## 🚀 Live Demo
-[Try MockMate AI] (https://your-frontend.vercel.app)
+
+[🔗 Try HealthCheck AI] (https://healthcheck-ai-ten.vercel.app)
 
 # HealthCheck AI - Disease Prediction System
 
