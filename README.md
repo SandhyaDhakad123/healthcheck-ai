@@ -1,3 +1,6 @@
+## 🚀 Live Demo
+[Try MockMate AI] (https://your-frontend.vercel.app)
+
 # HealthCheck AI - Disease Prediction System
 
 A full-stack web application that uses AI/ML to predict diseases based on symptoms and vital signs.
